@@ -1,6 +1,4 @@
 # plovertc.github.io
 Probe zum Lernen
-xxxxxxx
-xxxxxxxxxxxxxxxx
-xxxxxxxxxxxxxxx
-xxxxxxxxxxxxxxxxxx
+Das ist mein erstes Webseiten-Projekt,
+das ich auf Internet gestellt habe.
