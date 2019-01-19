@@ -1,4 +1,4 @@
-# plovertc.github.io
+# plovertc2.github.io
 
-Das ist mein erstes Webseiten-Projekt,
+Das ist mein zweites Webseiten-Projekt,
 das ich auf Internet gestellt habe.
